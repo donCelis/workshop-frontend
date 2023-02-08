@@ -1,0 +1,18 @@
+.click-block {
+  width: 300px;
+  padding: 10px;
+  cursor: pointer;
+  background: #404258;
+  color: #7b8fa1;
+}
+
+.slow-component {
+  background: #fad6a5;
+  text-align: center;
+  color: #cfb997;
+}
+
+.slow-component,
+.click-block {
+  border-radius: 8px;
+}
